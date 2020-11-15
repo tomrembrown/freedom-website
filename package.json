@@ -1,0 +1,9 @@
+{
+  "name": "freedom-website",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
